@@ -1,0 +1,126 @@
+[
+    {
+        "id": 1,
+        "nombre": "Lentes Oakley Black",
+        "imagen": "/imagen/Lentes Oakley Black.webp",
+        "precio": 12000,
+        "stock": 10,
+        "categoria":"Lentes"
+    },
+    {
+        "id": 2,
+        "nombre": "Lentes Oakley Retina",
+        "imagen": "/imagen/Lentes Oakley Retina.webp",
+        "precio": 17000,
+        "stock": 10,
+        "categoria":"Lentes"
+    },
+    {
+        "id": 3,
+        "nombre": "Lentes Oakley Sutro",
+        "imagen": "/imagen/Lentes Oakley Sutro.webp",
+        "precio": 18000,
+        "stock": 10,
+        "categoria":"Lentes"
+    },
+    {
+        "id": 4,
+        "nombre": "Lentes Oakley ",
+        "imagen": "/imagen/Lentes Oakley.webp",
+        "precio": 22000,
+        "stock": 10,
+        "categoria":"Lentes"
+    },
+    {
+        "id": 5,
+        "nombre": "Lentes Oakley Holbrook",
+        "imagen": "/imagen/OAKLEY HOLBROOK.webp",
+        "precio": 30000,
+        "stock": 10,
+        "categoria":"Lentes"
+    },
+    {
+        "id": 6,
+        "nombre": "Lentes Reef 224",
+        "imagen": "/imagen/Reef 224.webp", 
+        "precio": 32000,
+        "stock": 10,
+        "categoria":"Lentes"
+    },
+    {
+        "id": 7,
+        "nombre": " Lentes Free Spirit",
+        "imagen": "/imagen/Free Spirit.webp",
+        "precio": 16000,
+        "stock": 10,
+        "categoria":"Lentes"
+    },
+    {
+        "id": 8,
+        "nombre": "Lentes The Indian ",
+        "imagen": "/imagen/The Indian Face.webp",
+        "precio": 18000,
+        "stock": 10,
+        "categoria":"Lentes"
+    },
+    {
+        "id": 9,
+        "nombre": "Lentes Tommy Hilfiger",
+        "imagen": "/imagen/Tommy Hilfiger.webp",
+        "precio": 19000,
+        "stock": 10,
+        "categoria":"Lentes"
+    },
+
+
+    {
+        "id": 10,
+        "nombre": "Gorra Oakley Men's New Era",
+        "imagen": "/imagen/Gorra Oakley Men's New Era.webp",
+        "precio": 5000,
+        "stock": 10,
+        "categoria":"Gorras"
+    },
+
+    {
+        "id": 11,
+        "nombre": "Gorra Oakley Pref Hat ",
+        "imagen": "/imagen/GORRA OAKLEY PREF HAT.jpg",
+        "precio": 9000,
+        "stock": 10,
+        "categoria":"Gorras"
+    },
+    {
+        "id": 12,
+        "nombre": "Gorra Quiksilver Foamslayer",
+        "imagen": "/imagen/GORRA QUIKSILVER FOAMSLAYE.jpg",
+        "precio": 5000,
+        "stock": 10,
+        "categoria":"Gorras"
+    },
+
+    {
+        "id": 13,
+        "nombre": " Gorra Quiksilver Foamslayer",
+        "imagen": "/imagen/GORRA QUIKSILVER FOAMSLAYER.jpg",
+        "precio": 9000,
+        "stock": 10,
+        "categoria":"Gorras"
+    },
+
+    {
+        "id": 14,
+        "nombre": " Gorra Oakley Tinfoil",
+        "imagen": "/imagen/Gorra Oakley Tinfoil.jpg",
+        "precio": 9000,
+        "stock": 10,
+        "categoria":"Gorras"
+    }
+  
+
+]
+
+  
+
+
+  
